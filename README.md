@@ -17,9 +17,8 @@ Este proyecto es una aplicación de blog desarrollada en React, diseñada para d
 ## Estructura del Proyecto
 1. **Componentes React:** Diferentes componentes para cada funcionalidad.
 2. **Servicios de Datos:** Módulos para interactuar con Firebase.
-3. **Estado de la Aplicación:** Manejo del estado global (Context API, Redux, etc.).
+3. **Estado de la Aplicación:** Manejo del estado global (Context API).
 4. **Estilos:** Definición de estilos para la interfaz de usuario.
-5. **Soporte Offline:** Implementación de estrategias para el modo offline.
 
 ## Configuración y Despliegue
 ### Instalación
