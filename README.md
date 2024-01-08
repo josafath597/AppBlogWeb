@@ -24,6 +24,7 @@ Este proyecto es una aplicación de blog desarrollada en React, diseñada para d
 ## Configuración y Despliegue
 ### Instalación
 Instrucciones para instalar las dependencias y configurar el entorno local.
+Clonar este repositorio(git clone) e instalar las dependencias(npm install) y Ejecutar el proyecto(npm run dev)
 
 ### Ejecución
 Comandos para correr la aplicación en modo de desarrollo y producción.
